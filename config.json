@@ -1,0 +1,9 @@
+{
+	"ip":"parralogam.aternos.me",
+	"port": 25710,
+	"name": "DOG",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (password(password)) (DOG(DOG))",
+	"login-cmd":"/login (DOG)"
+}
